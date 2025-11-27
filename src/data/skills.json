@@ -1,0 +1,37 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png",
+      "description": "Proficient in writing semantic HTML5 markup and creating accessible web content"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png",
+      "description": "Skilled in CSS3, Flexbox, Grid, and responsive web design principles"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/javascript.png",
+      "description": "Proficient in JavaScript, including ES6+ features and modern JavaScript practices"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png",
+      "description": "Experience building interactive UIs with React hooks, components and state management"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png",
+      "description": "Basic understanding of Node.js and Express.js for backend development"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png",
+      "description": "Familiar with MongoDB database operations and Mongoose ODM"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png",
+      "description": "Can work with design files and implement pixel-perfect UI from Figma designs"
+    }
+  ]

@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Windows Client",
+      "imageSrc": "experience/windows-client.png"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "experience/linux.png"
+    },
+    {
+      "title": "Network Management",
+      "imageSrc": "experience/network.png"
+    },
+    {
+      "title": "Windows Server",
+      "imageSrc": "experience/windows-server.png"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "E-commerce",
+        "imageSrc": "projects/project.png",
+        "description": "This is an e-commerce website made to learn node.js, mongodb, ejs and to use the Razorpay payment gateway.",
+        "skills": ["React", "Node.js", "MongoDB", "EJS", "Razorpay"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/divyakvta/eshop.git"
+    },
+    {
+      "title": "Weather Finder",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn react and to use the openweather api.",
+      "skills": ["React", "Tailwind", "OpenWeather API"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/divyakvta/weatherFinder.git"
+    },
+    {
+      "title": "Chat-App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn node.js and socket.io and react.",
+      "skills": ["React", "Node.js", "Socket.io"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/divyakvta/chat-app.git"
+    }
+    
+]

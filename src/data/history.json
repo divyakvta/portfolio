@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Assistant System Administrator",
+      "organisation": "KSRTC",
+      "startDate": "December, 2018",
+      "endDate": "October, 2019",
+      "experiences": ["Worked on windows and linux systems", "Worked on network management"],
+      "imageSrc": "history/ksrtc.png"
+    },
+    {
+      "role": "Technical Assistant",
+      "organisation": "SCTIMST",
+      "startDate": "November, 2016",
+      "endDate": "June, 2017",
+      "experiences": ["Worked on windows and linux systems", "Worked on network management"],
+      "imageSrc": "history/sctimst.png"
+    },
+    {
+      "role": "Associate Executive - Tech Support",
+      "organisation": "Accel IT Resources Ltd",
+      "startDate": "November, 2011",
+      "endDate": "March, 2016",
+      "experiences": ["Worked on windows and linux systems", "Worked on network management, worked as trainer"],
+      "imageSrc": "history/accel.png"
+    }
+]
